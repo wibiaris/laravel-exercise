@@ -1,0 +1,1 @@
+C:\xampp\htdocs\videogames\app/views/games/show.blade.php
